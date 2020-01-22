@@ -1,7 +1,6 @@
 # MobileBlazorBindingsMobileGame
 Are you ready to learn Blazor for Cross-Platform Mobile development using Mobile Blazor Bindings
- 
-**Note:Addthe 1.gif attached gif image here
+  
 In this article we will learn on how to getting started and work with new Mobile Blazor Binding for developing Cross-Platform Mobile application using Blazor, here in this article 
 •	How to install Mobile Blazor Binding
 •	we will create our first Mobile Blazor Binding Application
@@ -276,8 +275,7 @@ In the HelloWorld we add the Game razor page in content page to load the game al
  
 Step 6: Run the Application in Android Device or in Emulator
 Here we have used the Samsung Galaxy Not 10 Android app to run my game.You can run in any Android Device on your installed Android emulator.
- 
-**Note:Addthe 1.gif attached gif image here
+  
 Conclution:
 Mobile Blazor Bindings is a experimental release and not for the production use.But for now it will be good place for getting started and work with Mobile Blazor Bindings for developing native mobile app using the Blazor.This is realy a needed one for all the Web Developer as well the C# lovers who are not much familiar with Native app development even not much familiar with Xamarin.We as the C# lovers will always love to work with this kidn of native mobile application development that too with Blazor means its like and cake with more honey for us.lets wait for the production release till that lets experiment more with Mobile Blazor Bindings.
 
